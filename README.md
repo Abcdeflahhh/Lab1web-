@@ -122,3 +122,5 @@ https://www.google.com → ke website eksternal.
 <a href="..."> → Link ke website e-campus UPB.
 </body> → Penutup isi halaman.
 </html> → Penutup dokumen HTML.
+
+![gambar]()
