@@ -48,3 +48,9 @@ Berikut kode HTML dasarnya:
     </nav>
 </body>
 </html>
+
+1. Bagian Struktur Awal (Deklarasi + Tag <html>)
+
+<!DOCTYPE html>
+<html lang="en">
+
