@@ -54,3 +54,5 @@ Berikut kode HTML dasarnya:
 <!DOCTYPE html>
 <html lang="en">
 
+<!DOCTYPE html> → Memberitahu browser bahwa ini adalah dokumen HTML5.
+<html lang="en"> → Elemen utama HTML, dengan atribut lang="en" artinya bahasa utama dokumen English (bisa diganti id untuk Indonesia).
