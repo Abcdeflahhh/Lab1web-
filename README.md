@@ -123,4 +123,4 @@ https://www.google.com → ke website eksternal.
 </body> → Penutup isi halaman.
 </html> → Penutup dokumen HTML.
 
-![Deskripsi Gambar](images/PW1.png)
+![image](https://raw.githubusercontent.com/Abcdeflahhh/Lab1web-/faceb242451770ceeeb650bd2415ab9a542248bb/images/PW1.png)
