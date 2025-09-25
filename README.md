@@ -8,8 +8,12 @@ KELAS : TI.24.A.4
 
 MATKUL : PEMROGRAMAN WEB 1
 
-# SOURCE CODE HTML
+# Praktikum 1 - HTML Dasar
 
+Ini adalah hasil praktikum pertama mata kuliah **Pemrograman Web** di Prodi Teknik Informatika Universitas Pelita Bangsa.  
+Berikut kode HTML dasarnya:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,36 +28,23 @@ MATKUL : PEMROGRAMAN WEB 1
         <a href="lab1_halaman2.html">HALAMAN 2</a>
         <a href="https://www.google.com">HALAMAN EKSTERNAL GOOGLE.COM</a>
     </nav>
+    <header>
+        <h1>DAY 1 - BELAJAR HTML</h1>
+    </header>
     <p>
-        <header>
-            <h1>
-                DAY 1 - BELAJAR HTML
-            </h1>
-        </header>
-    </p>
-    <P>
         Saya sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
         Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
         adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar
         HTML
-    </P>
-    <p>
-        <h2>
-            HI, Aku Aflah AThallah Tamam Kapukong
-        </h2>
     </p>
+    <h2>HI, Aku Aflah Athallah Tamam Kapukong</h2>
     <p>
         Saya merupakan mahasiswa semester 3 di Universitas Pelita Bangsa, Jurusan Teknik Informatika
     </p>
-    <P>
-        <h3>
-            LOGO KAMPUS UPB
-        </h3>
-    </P>
+    <h3>LOGO KAMPUS UPB</h3>
     <img src="UPB.jpg" alt="LOGO Universitas Pelita Bangsa">
     <nav>
         <a href="https://pb.ecampus.id/pb/main">Universitas Pelita Bangsa</a>
     </nav>
 </body>
 </html>
-
